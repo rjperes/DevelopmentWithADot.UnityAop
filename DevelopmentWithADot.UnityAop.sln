@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.UnityAop", "DevelopmentWithADot.UnityAop\DevelopmentWithADot.UnityAop.csproj", "{113CA541-F34E-4DAA-ACA3-91A0075A98D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.UnityAop.Tests", "DevelopmentWithADot.UnityAop.Tests\DevelopmentWithADot.UnityAop.Tests.csproj", "{AEA460FB-9A50-4470-9ADA-342EEA78260C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113CA541-F34E-4DAA-ACA3-91A0075A98D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113CA541-F34E-4DAA-ACA3-91A0075A98D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113CA541-F34E-4DAA-ACA3-91A0075A98D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113CA541-F34E-4DAA-ACA3-91A0075A98D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA460FB-9A50-4470-9ADA-342EEA78260C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA460FB-9A50-4470-9ADA-342EEA78260C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA460FB-9A50-4470-9ADA-342EEA78260C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA460FB-9A50-4470-9ADA-342EEA78260C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Validation.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
